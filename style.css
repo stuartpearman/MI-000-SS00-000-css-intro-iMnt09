@@ -1,0 +1,51 @@
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  background: #E5E6D3;
+  color: #245613;
+}
+
+.container {
+  max-width: 600px;
+}
+
+header {
+	padding-top: 30px;
+	padding-bottom: 45px;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	margin-bottom: 50px;
+}
+
+
+h1, .tagline {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+h1 {
+	font-size: 4em;
+}
+
+.tagline {
+	font-weight: bolder;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+blockquote {
+	background: #fff;
+	padding: 20px 30px;
+	margin-left: 15px;
+	border-left: 3px solid #CC6699;
+	font-size: 1.5em;
+	line-height: 1.4;
+}
+
+a {
+	color: purple;
+}
+
+a:hover {
+	color: orange;
+}
